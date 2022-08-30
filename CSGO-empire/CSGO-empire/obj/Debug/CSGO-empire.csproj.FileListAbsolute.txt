@@ -1,0 +1,7 @@
+G:\CODE\c#\automaticCSGOEmpire\freeKnifelolEZ\CSGO-empire\CSGO-empire\bin\Debug\CSGO-empire.exe.config
+G:\CODE\c#\automaticCSGOEmpire\freeKnifelolEZ\CSGO-empire\CSGO-empire\bin\Debug\CSGO-empire.exe
+G:\CODE\c#\automaticCSGOEmpire\freeKnifelolEZ\CSGO-empire\CSGO-empire\bin\Debug\CSGO-empire.pdb
+G:\CODE\c#\automaticCSGOEmpire\freeKnifelolEZ\CSGO-empire\CSGO-empire\obj\Debug\CSGO-empire.csproj.AssemblyReference.cache
+G:\CODE\c#\automaticCSGOEmpire\freeKnifelolEZ\CSGO-empire\CSGO-empire\obj\Debug\CSGO-empire.csproj.CoreCompileInputs.cache
+G:\CODE\c#\automaticCSGOEmpire\freeKnifelolEZ\CSGO-empire\CSGO-empire\obj\Debug\CSGO-empire.exe
+G:\CODE\c#\automaticCSGOEmpire\freeKnifelolEZ\CSGO-empire\CSGO-empire\obj\Debug\CSGO-empire.pdb
