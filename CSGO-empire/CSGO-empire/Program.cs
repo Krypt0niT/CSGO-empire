@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
+
 namespace CSGO_empire
 {
 
@@ -23,10 +24,9 @@ namespace CSGO_empire
         public const int MOUSEEVENTF_LEFTUP = 0x04;
         //-----------------------------
         
-
-
         static void Main(string[] args)
         {
+
             
 
             void Click(int x,int y)
@@ -60,9 +60,7 @@ namespace CSGO_empire
             {
                 Click_CLEAR();
                 Click_001();
-                Click_X2();
-                Click_X2();
-                Click_X2();
+                
             }
 
             StartRound();
